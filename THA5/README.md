@@ -5,7 +5,7 @@ In this THA,We implemented basic calculator using HTML , CSS , Javascript ....
 **Let do some math here itself :sweat_smile:**
 
 
-http://127.0.0.1:5500/THA5/index.html
+
 
 
 
