@@ -43,4 +43,53 @@ length: 2
 
 ## 4. Write a JavaScript program to display the reading status (i.e. display book name, author name and reading status) of the following books.
 
-`var library = [ { author: 'Bill Gates', title: 'The Road Ahead', readingStatus: true }, { author: 'Steve Jobs', title: 'Walter Isaacson', readingStatus: true }, { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games', readingStatus: false }];`
+### Test Data:
+
+```
+var library = [ { author: 'Bill Gates', title: 'The Road Ahead', readingStatus: true }, { author: 'Steve Jobs', title: 'Walter Isaacson', readingStatus: true }, { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games', readingStatus: false }];
+```
+
+### Expected Output:
+
+```
+author: Bill Gates
+title The Road Ahead
+readingstatus true
+author: Steve Jobs
+title Walter Isaacson
+readingstatus true
+author: Suzanne Collins
+title Mockingjay: The Final Book of The Hunger Games
+readingstatus false
+
+```
+
+## 5. Write a JavaScript program to get the volume of a Cylinder with four decimal places using object classes.
+
+### Expected Output:
+
+```
+Volume of Cylinder 0: xyz
+Volume of Cylinder 1: xyz
+Volume of Cylinder 2: xyz
+
+```
+
+## 6. Write a JavaScript program to sort an array of JavaScript objects.
+
+### Test Data:
+
+```
+var library = [ { title: 'The Road Ahead', author: 'Bill Gates', libraryID: 1254 }, { title: 'Walter Isaacson', author: 'Steve Jobs', libraryID: 4264 }, { title: 'Mockingjay: The Final Book of The Hunger Games', author: 'Suzanne Collins', libraryID: 3245 }];
+```
+
+### Expected Output:
+
+```
+[[object Object] { author: "Walter Isaacson", libraryID: 4264, title: "Steve Jobs" }, [object Object] { author: "Suzanne Collins", libraryID: 3245, title: "Mockingjay: The Final Book of The Hunger Games" }, [object Object] { author: "The Road Ahead", libraryID: 1254, title: "Bill Gates" }]
+
+```
+
+
+![Screenshot (18)](https://user-images.githubusercontent.com/60287642/124800288-542f8700-df0a-11eb-9650-e203cbeedbc7.png)
+
