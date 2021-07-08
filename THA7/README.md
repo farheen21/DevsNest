@@ -55,12 +55,13 @@ var library = [ { author: 'Bill Gates', title: 'The Road Ahead', readingStatus: 
 author: Bill Gates
 title The Road Ahead
 readingstatus true
-index.js:28 author: Steve Jobs
+author: Steve Jobs
 title Walter Isaacson
 readingstatus true
-index.js:28 author: Suzanne Collins
+author: Suzanne Collins
 title Mockingjay: The Final Book of The Hunger Games
 readingstatus false
+
 ```
 
 ## 5. Write a JavaScript program to get the volume of a Cylinder with four decimal places using object classes.
@@ -69,8 +70,9 @@ readingstatus false
 
 ```
 Volume of Cylinder 0: xyz
-index.js:37 Volume of Cylinder 1: xyz
-index.js:37 Volume of Cylinder 2: xyz
+Volume of Cylinder 1: xyz
+Volume of Cylinder 2: xyz
+
 ```
 
 ## 6. Write a JavaScript program to sort an array of JavaScript objects.
@@ -87,3 +89,5 @@ var library = [ { title: 'The Road Ahead', author: 'Bill Gates', libraryID: 1254
 [[object Object] { author: "Walter Isaacson", libraryID: 4264, title: "Steve Jobs" }, [object Object] { author: "Suzanne Collins", libraryID: 3245, title: "Mockingjay: The Final Book of The Hunger Games" }, [object Object] { author: "The Road Ahead", libraryID: 1254, title: "Bill Gates" }]
 
 ```
+
+![Screenshot (18)](https://user-images.githubusercontent.com/60287642/124800288-542f8700-df0a-11eb-9650-e203cbeedbc7.png)
